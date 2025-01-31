@@ -54,7 +54,7 @@ main{
 .texts h1{
     font-size:40px;
     line-height: 42px;
-    font-weight: 900;
+    font-weight: var(--BoldFont);
     font-family: "Fraunces", serif;
     font-optical-sizing: auto;
     font-style: normal;
